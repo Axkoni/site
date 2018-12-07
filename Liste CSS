@@ -1,0 +1,36 @@
+body
+{
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+li
+{
+  font-size: 40px;
+}
+
+p
+{
+  font-size: 70px;
+}
+
+li
+{
+font-family: Impact, "Arial Black"
+}
+
+p
+{
+  font-family: Impact, "Arial Black"
+}
+
+p
+{
+  text-decoration: underline;
+}
+
+p
+{
+  text-align: center;
+}

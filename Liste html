@@ -1,0 +1,13 @@
+<head>
+  <link rel="stylesheet" href="style.css" />
+  <p style="color: black;">Liste des clubs éxistant</p>
+</head>
+
+<ul>
+  <li>Football</li>
+  <li>Rugby</li>
+  <li>Jeux-vidéo</li>
+  <li>Musique</li>
+  <li>Danse</li>
+  <li>Soirée</li>
+</ul>
